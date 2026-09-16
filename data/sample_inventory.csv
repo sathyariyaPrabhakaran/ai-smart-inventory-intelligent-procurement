@@ -1,0 +1,4 @@
+product_id,product_name,current_stock,reorder_level
+P001,Tata Salt,98,120
+P002,Aashirvaad Atta,145,100
+P003,Surf Excel,72,90
